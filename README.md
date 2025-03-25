@@ -1,4 +1,4 @@
-### Hi there!!!, I'm **Tippi**🤓
+## Hi there!!!, I'm **Tippi**🤓
 
 a passionate **Computer Science student** and a **Junior Web Developer**. I'm constantly learning and growing my skills, aiming to become a skilled **Cybersecurity Engineer** in the future.😎
 
